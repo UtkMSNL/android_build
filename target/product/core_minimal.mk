@@ -84,6 +84,8 @@ PRODUCT_BOOT_JARS := \
     core-libart \
     conscrypt \
     okhttp \
+	kryonet \
+	dexmaker \
     core-junit \
     bouncycastle \
     ext \
